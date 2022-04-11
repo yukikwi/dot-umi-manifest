@@ -13,7 +13,7 @@ To get started with the building dotOS for your device, you'll need to get famil
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/DotOS/manifest.git -b dot12.1
+repo init -u https://github.com/yukikwi/dot-umi-manifest.git -b dot12.1
 ```
 
 then to sync up:
